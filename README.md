@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<video src="https://res.cloudinary.com/dnyw0exi5/video/upload/v1765552061/%EB%A7%90%EB%9E%91%EB%A7%90%EB%9E%91_%EC%84%B8%EC%9D%B4%EC%84%B8%EC%9D%B4%EC%95%84_dx0sbg.mp4" muted="muted" width="100"></video>
+
 </div>
 
 ###
