@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a tech enthusiast. I am learning how to develop applications, games, and even AI.<br><br>I am from Indonesia. I am currently studying at a polytechnic and working as a freelance developer.<br><br>I hope you can build a good relationship with me as a friend or as someone who may be important to you.
+I am a tech enthusiast. I am learning how to develop applications, games, and even AI.<br><br>I am from Indonesia. I am currently studying at a University and working as a freelance developer.<br><br>I hope you can build a good relationship with me as a friend or as someone who may be important to you.
 
 
 ## 🌐 Socials:
